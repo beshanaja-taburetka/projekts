@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1529093315 source:f:\picerija2\main.cpp
+	<iostream>
+	"Picerija.h"
+
+1529095497 source:f:\picerija2\src\admin.cpp
+	"Admin.h"
+
+1529095454 f:\picerija2\include\admin.h
+	"Lietotajs.h"
+
+1529095594 f:\picerija2\include\lietotajs.h
+	<iostream>
+
+1529092751 source:f:\picerija2\src\lietotajs.cpp
+	"Lietotajs.h"
+
+1529265833 source:f:\picerija2\src\picerija.cpp
+	"Picerija.h"
+
+1529266062 f:\picerija2\include\picerija.h
+	<iostream>
+	<vector>
+	"Admin.h"
+	"conio.h"
+	"Lietotajs.h"
+	"Pica.h"
+	<fstream>
+	<windows.h>
+	"User.h"
+
+1529323033 source:d:\picerija2\main.cpp
+	<iostream>
+	"Picerija.h"
+
+1529335192 d:\picerija2\include\picerija.h
+	<iostream>
+	<vector>
+	"Admin.h"
+	"conio.h"
+	"Lietotajs.h"
+	"Pica.h"
+	<fstream>
+	<windows.h>
+	"User.h"
+
+1529091854 d:\picerija2\include\admin.h
+	"Lietotajs.h"
+
+1529091994 d:\picerija2\include\lietotajs.h
+	<iostream>
+
+1529091897 source:d:\picerija2\src\admin.cpp
+	"Admin.h"
+
+1529089151 source:d:\picerija2\src\lietotajs.cpp
+	"Lietotajs.h"
+
+1529258159 f:\picerija2\include\pica.h
+	<iostream>
+
+1529256917 source:f:\picerija2\src\pica.cpp
+	"Pica.h"
+
+1529265993 f:\picerija2\include\user.h
+	<iostream>
+
+1529264786 source:f:\picerija2\src\user.cpp
+	"User.h"
+
+1529336038 d:\picerija2\include\pica.h
+	<iostream>
+
+1529262393 d:\picerija2\include\user.h
+	<iostream>
+
+1529339537 source:d:\picerija2\src\picerija.cpp
+	"Picerija.h"
+
+1529253317 source:d:\picerija2\src\pica.cpp
+	"Pica.h"
+
+1529261186 source:d:\picerija2\src\user.cpp
+	"User.h"
+
+1529323033 source:d:\picerija project\main.cpp
+	<iostream>
+	"Picerija.h"
+
+1529335192 d:\picerija project\include\picerija.h
+	<iostream>
+	<vector>
+	"Admin.h"
+	"conio.h"
+	"Lietotajs.h"
+	"Pica.h"
+	<fstream>
+	<windows.h>
+	"User.h"
+
+1529091854 d:\picerija project\include\admin.h
+	"Lietotajs.h"
+
+1529091994 d:\picerija project\include\lietotajs.h
+	<iostream>
+
+1529336038 d:\picerija project\include\pica.h
+	<iostream>
+
+1529262393 d:\picerija project\include\user.h
+	<iostream>
+
+1529091897 source:d:\picerija project\src\admin.cpp
+	"Admin.h"
+
+1529089151 source:d:\picerija project\src\lietotajs.cpp
+	"Lietotajs.h"
+
+1529253317 source:d:\picerija project\src\pica.cpp
+	"Pica.h"
+
+1529340532 source:d:\picerija project\src\picerija.cpp
+	"Picerija.h"
+
+1529261186 source:d:\picerija project\src\user.cpp
+	"User.h"
+
